@@ -1,5 +1,16 @@
-Website URL: https://wsinf-sneakers.web.app/
+Wyższa Szkoła Informatyki i Umiejętności Łódź
 
+Informatyka semestr 5, studia stacjonarne
+Projekt Zespołowy
+
+Grupa:
+- Sebastian Świeczkowski 31590
+- Damian Pabich 31588
+- Filip Koper 31581
+- Wojtek Zaguła 31594
+
+
+Website URL: https://wsinf-sneakers.web.app/
 Technologies We used for this project:
 - ReactJS
 - Styled-Components
