@@ -1,7 +1,6 @@
 Wyższa Szkoła Informatyki i Umiejętności Łódź
 
-Informatyka semestr 5, studia stacjonarne
-Projekt Zespołowy
+Projekt Zespołowy - Informatyka semestr 5, studia stacjonarne
 
 Grupa:
 - Sebastian Świeczkowski 31590
