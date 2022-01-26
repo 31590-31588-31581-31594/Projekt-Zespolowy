@@ -50,7 +50,7 @@ const Wishlist = () => {
             <StyledTitle>
                MY WISH LIST
                <span ref={contentLengthRef}>[ {length} ]</span>
-               <StyledLinkToHome label="GO BACK SHOPPING" title="all products" path="AllProducts" isHeader isWhite />
+               <StyledLinkToHome label="GO BACK SHOPPING" title="all products" path="" isHeader isWhite />
             </StyledTitle>
          </header>
 

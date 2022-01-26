@@ -26,7 +26,7 @@ const ProductPage = ({ setIsProductPage }) => {
                <Error label="product"/>
             ) : (
                <Wrapper>
-                     <StyledLinkToHome label="BACK" title="all products" path="AllProducts" />
+                     <StyledLinkToHome label="BACK" title="all products" path="" />
 
                      <Content product={product} loading={loading} /> 
 
