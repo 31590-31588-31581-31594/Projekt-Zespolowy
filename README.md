@@ -21,12 +21,40 @@ Opis strony:
 
 
 Strona wykonana przez naszą grupę to e-commerce, czyli sklep internetowy, który jest podzielony następująco:
-- strona głowna zawierająca wszystkie produkty z możliwością dodawania filtrów oraz wyszukiwarką konkretnego produktu.
-- podstrony dla każdego produktu z możliwościa dodania produtku do koszyka lub listy życzeń.
-- strona logowania z przekierowaniem na strone profilu po zalogowaniu.
-- na stronie profilowej - możliwość ustawienia awatara, resetowania hasła, wyświetlanie calej historii zakupów i historii każdego zamówienia.
-- koszyk - wyświetlanie produktów wcześniej dodanych do listy, wszystko zapisywane w pamięci lokalnej urządzenia. Możliwość edycji ilości dodanych produktów. Podsumowanie i przejście do płatności. Po poprawnym wprowadzeniu danych karty kredytowej, zakupione produkty zapisywane sa w bazie danych do konkretnego użytkownika. ( Później wyświetlane w historii zamówień na stronie profilowej ).
-- lista życzeń - możliwość dodania produktu do tzw. listy życzeń ( wishlist ), zapisywane w pamięci lokalnej urządzenia.
+1. Strona głowna 
+- zawierająca wszystkie produkty.
+- możliwość filtrowania produktów.  
+- wyszukiwarka konkretnego produktu.
+
+
+2. Podstrony dla każdego produktu:
+- dokładny opis produktu
+- slider ze zdjęciami produktu
+- możliwość dodania produtku do koszyka.
+- możliwość dodania produtku do listy życzeń.
+
+
+3. Strona logowania z przekierowaniem na strone profilu po zalogowaniu.
+- formularz logowania z walidacją
+- możliwość rejestracji
+
+
+5. Strona profilowa:
+- wyświetlanie calej historii zakupów i szczegółów każdego zamówienia.
+- możliwość ustawienia zdjęcia profilowego - awatara
+- resetowanie hasła, w postaci powiadomienia mailowego z linkiem do strony zawierającej formularz do wprowadzenia nowego hasła.
+
+
+6. Koszyk:
+- wyświetlanie produktów wcześniej dodanych do listy.
+- zapiasnie dodanych produktów w pamięci lokalnej urządzenia. 
+- możliwość edycji ilości dodanych produktów. 
+- podsumowanie i przejście do płatności. 
+- po poprawnym wprowadzeniu danych karty kredytowej, zakupione produkty zapisywane sa w bazie danych do konkretnego użytkownika. Później wyświetlane w historii zamówień na stronie profilowej.
+
+
+7. Lista życzeń:
+- możliwość dodania produktu do tzw. listy życzeń ( wishlist ), zapisywane w pamięci lokalnej urządzenia.
 
 
 Podział obowiązków:
