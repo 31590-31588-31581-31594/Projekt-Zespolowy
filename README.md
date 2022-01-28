@@ -4,6 +4,13 @@ Wyższa Szkoła Informatyki i Umiejętności Łódź
 Projekt Zespołowy - Informatyka semestr 5, studia stacjonarne
 
 
+Grupa:
+- Sebastian Świeczkowski 31590
+- Damian Pabich 31588
+- Filip Koper 31581
+- Wojtek Zaguła 31594
+
+
 Nazwa Projektu: Sneakers - e-commerce
 
 
@@ -13,20 +20,13 @@ Link do strony: https://wsinf-sneakers.web.app/
 Opis strony: 
 
 
-Strona to e-commerce, czyli sklep internetowy podzielony na następujące podstrony:
+Strona wykonana przez naszą grupę to e-commerce, czyli sklep internetowy, który jest podzielony następująco:
 - strona głowna zawierająca wszystkie produkty z możliwością dodawania filtrów oraz wyszukiwarką konkretnego produktu.
-- podstrona dla każdego produktu z możliwościa dodania produtku do koszyka lub listy życzeń.
-- strona logowania z przekierowaniem na strone profilu po zalogowaniu. Na stronie profilowej - możliwość ustawienia awatara, resetowania hasła, wyświetlanie calej historii zakupów i historii każdego zamówienia.
-- koszyk - wyświetlanie produktów wcześniej dodanych do listy, wszystko zapisywane w pamięci lokalnej urządzenia. Możliwość edycji ilości dodanych produktów. Podsumowanie i przejście do płatności. Po poprawnym wprowadzeniu danych karty kredytowej, zakupione produkty zapisywane sa w bazie danych do konkretnego użytkownika.
-
-
-
-
-Grupa:
-- Sebastian Świeczkowski 31590
-- Damian Pabich 31588
-- Filip Koper 31581
-- Wojtek Zaguła 31594
+- podstrony dla każdego produktu z możliwościa dodania produtku do koszyka lub listy życzeń.
+- strona logowania z przekierowaniem na strone profilu po zalogowaniu.
+- na stronie profilowej - możliwość ustawienia awatara, resetowania hasła, wyświetlanie calej historii zakupów i historii każdego zamówienia.
+- koszyk - wyświetlanie produktów wcześniej dodanych do listy, wszystko zapisywane w pamięci lokalnej urządzenia. Możliwość edycji ilości dodanych produktów. Podsumowanie i przejście do płatności. Po poprawnym wprowadzeniu danych karty kredytowej, zakupione produkty zapisywane sa w bazie danych do konkretnego użytkownika. ( Później wyświetlane w historii zamówień na stronie profilowej ).
+- lista życzeń - możliwość dodania produktu do tzw. listy życzeń ( wishlist ), zapisywane w pamięci lokalnej urządzenia.
 
 
 Wojciech Zaguła 31594 - strona wizualna:
@@ -49,8 +49,8 @@ Damian Pabich 31588 - przygotowanie API ( backendu )
 
 Sebastian Świeczkowski 31590 - JavaScript ( React JS ) - funkcjonalność strony
 - przygotowanie kodu w języku JavaScript z wykorzystaniem biblioteki React JS. 
-	Wykorzystanie komponentów funkcjonalnych, co zapewniło większą reużywalność, prostsze testowanie kodu.
-- większoś nowszych funkcjonalnosci JavaScriptu ( również ES6 ), takich jak - destrukturyzacja obiektów i tablic, domyślne wartości parametrów funkcji, importowanie i eksportowanie domyślne pliów, funkcje strzałkowe, spread i rest operator, 
+- wykorzystanie komponentów funkcjonalnych, co zapewniło większą reużywalność, prostsze testowanie kodu.
+- zastosowanie większości nowszych funkcjonalnosci JavaScriptu ( również ES6 ), takich jak - destrukturyzacja obiektów i tablic, domyślne wartości parametrów funkcji, importowanie i eksportowanie domyślne pliów, funkcje strzałkowe, spread i rest operator, 
 - wykorzystanie głownych hooków reactowych takich jak: useState, useEffect, useRef, useCallback, useMemo, useReducer i inne.
 - paginacja produktów - wyświetlanie konkretnej liczby produktów na daną stronę.
 - routing na stronie wykonany przy użyciu biblioteki React-router-dom w najnowszej wersji v6.	
