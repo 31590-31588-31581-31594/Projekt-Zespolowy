@@ -28,15 +28,15 @@ Strona wykonana przez naszą grupę to e-commerce, czyli sklep internetowy, któ
 
 
 2. Podstrony dla każdego produktu:
-- dokładny opis produktu
-- slider ze zdjęciami produktu
+- dokładny opis produktu.
+- slider ze zdjęciami produktu.
 - możliwość dodania produtku do koszyka.
 - możliwość dodania produtku do listy życzeń.
 
 
 3. Strona logowania z przekierowaniem na strone profilu po zalogowaniu.
-- formularz logowania z walidacją
-- możliwość rejestracji
+- formularz logowania z walidacją.
+- możliwość rejestracji.
 
 
 5. Strona profilowa:
@@ -61,9 +61,9 @@ Podział obowiązków:
 
 
 Wojciech Zaguła 31594 - strona wizualna:
-- grafiki, zdjęcia - przygotowanie 3 zdjęć, dla każdego produktu, co dla 36 produktów łącznie daje 108 zdjęć + pozostałe grafiki występujące na stronie.            Optymalizacja ( minifikacja ) rozmiarów wszystkich grafik w celu poprawy wydajności. Dodatkowa grafika służąca jako placeholder dla produktów - wyświetlana jest do momentu wczytania przez klienta odpowieniego zdjęcia produktu
-- czcionki - dobór odpowiednich czcionek pod wersje mobilne i desktopowe, zarówno rozmiar jak i odpowiedni krój
-- kolorystyka - przygotowanie kolorów występujących na stronie z motywem przewodnim - kolor pomarańczowy
+- grafiki, zdjęcia - przygotowanie 3 zdjęć, dla każdego produktu, co dla 36 produktów łącznie daje 108 zdjęć + pozostałe grafiki występujące na stronie.            Optymalizacja ( minifikacja ) rozmiarów wszystkich grafik w celu poprawy wydajności. Dodatkowa grafika służąca jako placeholder dla produktów - wyświetlana jest do momentu wczytania przez klienta odpowieniego zdjęcia produktu.
+- czcionki - dobór odpowiednich czcionek pod wersje mobilne i desktopowe, zarówno rozmiar jak i odpowiedni krój.
+- kolorystyka - przygotowanie kolorów występujących na stronie z motywem przewodnim - kolor pomarańczowy.
 
 
 Filip Koper 31581 - struktura HTML, CSS
