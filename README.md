@@ -33,7 +33,7 @@ Podział obowiązków:
 
 
 Wojciech Zaguła 31594 - strona wizualna:
-- grafiki, zdjęcia - przygotowanie 3 zdjęć, dla każdego produktu, co dla 36 produktów łącznie daje 102 zdjęcia + pozostałe grafiki występujące na stronie.            Optymalizacja ( minifikacja ) rozmiarów wszystkich grafik w celu poprawy wydajności. Dodatkowa grafika służąca jako placeholder dla produktów - wyświetlana jest do momentu wczytania przez klienta odpowieniego zdjęcia produktu
+- grafiki, zdjęcia - przygotowanie 3 zdjęć, dla każdego produktu, co dla 36 produktów łącznie daje 108 zdjęć + pozostałe grafiki występujące na stronie.            Optymalizacja ( minifikacja ) rozmiarów wszystkich grafik w celu poprawy wydajności. Dodatkowa grafika służąca jako placeholder dla produktów - wyświetlana jest do momentu wczytania przez klienta odpowieniego zdjęcia produktu
 - czcionki - dobór odpowiednich czcionek pod wersje mobilne i desktopowe, zarówno rozmiar jak i odpowiedni krój
 - kolorystyka - przygotowanie kolorów występujących na stronie z motywem przewodnim - kolor pomarańczowy
 
