@@ -45,9 +45,8 @@ Filip Koper 31581 - struktura HTML, CSS
 
 
 Damian Pabich 31588 - przygotowanie API ( backendu )
-- firebase - skonfigurowanie wszystkich ustawień w firebase, przygotowanie struktury bazy danych dla fireStore, konfiguracja uwierzytelniania poprzez email użytkowników         ( również obsługa błedów i wyświetlanie poprawnych komunikatów dla konkretnego rodzaju błędu ), konfiguracja hostingu i deploy strony na serwer.
-- DatoCMS - konfiguracja headless CMS'a - miejsce do przetrzymywania treści wyświetlanych na stronie,
-	możliwość dodawania nowych produktów na strone lub aktualizowania ich, poprzez interfejs graficzny.
+- firebase - skonfigurowanie wszystkich ustawień w firebase, przygotowanie struktury bazy danych dla fireStore ( przetrzymywanie informacji o złożonych zamówieniach ), konfiguracja uwierzytelniania poprzez email użytkowników - rejestracja i logowanie przez email, możliwość resetowania hasła. Obsługa błedów i wyświetlanie poprawnych komunikatów dla konkretnego rodzaju błędu. Konfiguracja hostingu i deploy strony na serwer.
+- DatoCMS - konfiguracja headless CMS'a - miejsce do przetrzymywania treści wyświetlanych na stronie, możliwość dodawania nowych produktów na strone lub aktualizowania ich, poprzez interfejs graficzny.
 
 
 Sebastian Świeczkowski 31590 - JavaScript ( React JS ) - funkcjonalność strony
