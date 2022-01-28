@@ -14,6 +14,8 @@ Strona to e-commerce, czyli sklep internetowy podzielony na następujące podstr
 - koszyk - wyświetlanie produktów wcześniej dodanych do listy, wszystko zapisywane w pamięci lokalnej urządzenia. Możliwość edycji ilości dodanych produktów. Podsumowanie i przejście do płatności. Po poprawnym wprowadzeniu danych karty kredytowej, zakupione produkty zapisywane sa w bazie danych do konkretnego użytkownika.
 
 
+
+
 Grupa:
 - Sebastian Świeczkowski 31590
 - Damian Pabich 31588
