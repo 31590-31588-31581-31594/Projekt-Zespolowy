@@ -40,7 +40,7 @@ Wojciech Zaguła 31594 - strona wizualna:
 
 Filip Koper 31581 - struktura HTML, CSS
 - przygotowanie layoutu strony, wykorzystując semantyczny HTML5.
-- CSS w styled-components - layout strony głownej wykonany w technologiach grid i flex, efekty po najechaniu myszką na dany element ( hover ), animacje ( keyframes ), wszystko wykonane w technologii RWD ( Responsive Web Design ), strona adaptuje się do wielkości ekranu użytkownika.
+- CSS w styled-components - layouty stron wykonane w technologiach grid i flex, efekty po najechaniu myszką na dany element ( hover ), animacje ( keyframes ), wszystko wykonane w technologii RWD ( Responsive Web Design ), strona adaptuje się do wielkości ekranu użytkownika.
 - animacje wsytępujące na stronie napisane, przy użyciu biblioteki GSAP.
 
 
