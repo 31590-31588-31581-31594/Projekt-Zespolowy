@@ -53,8 +53,7 @@ Damian Pabich 31588 - przygotowanie API ( backendu )
 Sebastian Świeczkowski 31590 - JavaScript ( React JS ) - funkcjonalność strony
 - przygotowanie kodu w języku JavaScript z wykorzystaniem biblioteki React JS. 
 - wykorzystanie komponentów funkcjonalnych, co zapewniło większą reużywalność, prostsze testowanie kodu.
-- zastosowanie większości nowszych funkcjonalnosci JavaScriptu ( również ES6 ), takich jak - destrukturyzacja obiektów i tablic, domyślne wartości parametrów funkcji, importowanie i eksportowanie domyślne pliów, funkcje strzałkowe, spread i rest operator, 
-- wykorzystanie głownych hooków reactowych takich jak: useState, useEffect, useRef, useCallback, useMemo, useReducer i inne.
+- zastosowanie większości nowszych funkcjonalnosci JavaScriptu ( również ES6 ), takich jak - destrukturyzacja obiektów i tablic, domyślne wartości parametrów funkcji, importowanie i eksportowanie domyślne plików, funkcje strzałkowe, spread i rest operator i inne.
 - paginacja produktów - wyświetlanie konkretnej liczby produktów na daną stronę.
 - routing na stronie wykonany przy użyciu biblioteki React-router-dom w najnowszej wersji v6.	
 - Redux Toolkit, połaczone z local storage - koszyk i lista życzeń ( wishlist ) wykonane z wykorzystaniem globalnego stanu aplikacji ( dostęp do danych z koszyka i wishlist na przestrzeni całej aplikacji ), zapisywanie zmian wykonanych przez użytkownika w pamięci lokalnej komputera. 
