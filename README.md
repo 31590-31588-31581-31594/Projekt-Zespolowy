@@ -5,8 +5,14 @@ Projekt Zespołowy - Informatyka semestr 5, studia stacjonarne
 
 
 Nazwa Projektu: Sneakers - e-commerce
+
+
 Link do strony: https://wsinf-sneakers.web.app/
+
+
 Opis strony: 
+
+
 Strona to e-commerce, czyli sklep internetowy podzielony na następujące podstrony:
 - strona głowna zawierająca wszystkie produkty z możliwością dodawania filtrów oraz wyszukiwarką konkretnego produktu.
 - podstrona dla każdego produktu z możliwościa dodania produtku do koszyka lub listy życzeń.
