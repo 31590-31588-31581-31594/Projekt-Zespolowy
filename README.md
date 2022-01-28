@@ -29,6 +29,9 @@ Strona wykonana przez naszą grupę to e-commerce, czyli sklep internetowy, któ
 - lista życzeń - możliwość dodania produktu do tzw. listy życzeń ( wishlist ), zapisywane w pamięci lokalnej urządzenia.
 
 
+Podział obowiązków:
+
+
 Wojciech Zaguła 31594 - strona wizualna:
 - grafiki, zdjęcia - przygotowanie 3 zdjęć, dla każdego produktu, co dla 36 produktów łącznie daje 102 zdjęcia + pozostałe grafiki występujące na stronie.            Optymalizacja ( minifikacja ) rozmiarów wszystkich grafik w celu poprawy wydajności. Dodatkowa grafika służąca jako placeholder dla produktów - wyświetlana jest do momentu wczytania przez klienta odpowieniego zdjęcia produktu
 - czcionki - dobór odpowiednich czcionek pod wersje mobilne i desktopowe, zarówno rozmiar jak i odpowiedni krój
